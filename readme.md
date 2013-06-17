@@ -45,7 +45,7 @@ The plugin was created (adapted) by one of the company's employes for his own bl
 == Screenshots ==
 
 1. Configuring the widget in the WP backend.
-2. How the widget looks on TwentyThirteen.
+2. How the widget looks on TwentyTwelve.
 3. How the widget looks on a custom theme.
 
 == Changelog ==
