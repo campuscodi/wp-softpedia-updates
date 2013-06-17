@@ -1,0 +1,9 @@
+div.softpedia-feed { }
+div.softpedia-feed li {
+	list-style-type: none;
+	list-style: none;
+	padding-bottom: 10px;
+	}
+div.softpedia-feed li a { font-weight: bold; }
+div.softpedia-feed li img { float: left; margin: 5px 10px 5px 0; }
+div.softpedia-feed li span { font-size: 10px; }
