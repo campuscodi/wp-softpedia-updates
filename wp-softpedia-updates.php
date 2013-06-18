@@ -161,7 +161,7 @@ function softpedia_echo (
 				$date = $item[3];
 
 				echo '<li class="softpedia-item softpedia-item-'.$widget_number.'">';
-					echo '<a href="'.$link.'">';
+					echo '<a rel="nofollow" href="'.$link.'">';
 					echo $title;
 					echo '</a>';
 					echo '<br>';
