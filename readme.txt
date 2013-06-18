@@ -26,6 +26,7 @@ The plugin's source has been blatantly adapted from the [WP Jerusalem Post](http
 4. Over 20 RSS feeds supported
 5. Ability to customize the widget title
 6. Style agnostic. No default style. Works with any theme. Can be custom styled via extra CSS.
+7. Nofollow links
 
 #About Softpedia:
 [Softpedia](http://softpedia.com) is a library of over 500,000 free and free-to-try software programs for Windows, Unix/Linux, Mac, Mobile Phones, Games and Drivers and an up-to-date news and reviews section focused on IT subjects.
