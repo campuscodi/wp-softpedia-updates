@@ -3,7 +3,7 @@
 Plugin Name: WP Softpedia Updates
 Plugin URI: http://github.com/campuscodi/wp-softpedia-updates
 Description: A widget that lets you call in various Softpedia.com RSS feeds
-Version: 1.0.0
+Version: 1.0.2
 Author: Softpedia
 Author URI: http://softpedia.com
 License: GPLv2 or later
