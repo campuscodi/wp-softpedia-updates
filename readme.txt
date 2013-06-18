@@ -4,7 +4,7 @@ Donate link: #
 Tags: Softpedia, RSS, update, feed, widget, sidebar, software, update
 Requires at least: 3.3
 Tested up to: 3.6.0
-Stable 1.0.2
+Stable 1.0.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
