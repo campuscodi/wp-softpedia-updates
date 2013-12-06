@@ -79,9 +79,12 @@ class SoftpediaWidget extends WP_Widget
 			'Linux News' => 'http://news.softpedia.com/newsRSS/Linux-7.xml',			
 			'Games News' => 'http://news.softpedia.com/newsRSS/Games-9.xml',
 			'Technology and Gadgets News' => 'http://news.softpedia.com/newsRSS/Technology-and-Gadgets-3.xml',
+			'Laptops and Tablets News' => 'http://news.softpedia.com/newsRSS/Laptops-Tablets-241.xml',
 			'Green News' => 'http://news.softpedia.com/newsRSS/Green-215.xml',
 			'Science News' => 'http://news.softpedia.com/newsRSS/Science-2.xml',
 			'Telecoms News' => 'http://news.softpedia.com/newsRSS/Telecoms-10.xml',
+			'Photo News' => 'http://news.softpedia.com/newsRSS/Photo-244.xml',
+			'3D Printing News' => 'http://news.softpedia.com/newsRSS/3D-Printing-243.xml',
 			'Editorials' => 'http://news.softpedia.com/newsRSS/Editorials-14.xml',
 			'Interviews' => 'http://news.softpedia.com/newsRSS/Interviews-15.xml',
 			'Reviews' => 'http://news.softpedia.com/newsRSS/Reviews-12.xml'
