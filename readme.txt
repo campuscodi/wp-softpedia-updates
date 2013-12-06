@@ -54,6 +54,9 @@ The plugin was created (adapted) by one of the company's employes for his own bl
 = 1.0.0 =
 * First version.
 
+= 1.0.4 =
+* Added Photo, 3D Printing, Laptops & Tablets RSS feeds.
+
 == Upgrade Notice ==
 
 = None yet
