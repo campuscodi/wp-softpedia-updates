@@ -1,1 +1,1 @@
-<?php // just here to protect directories
+<?php // ignore this
