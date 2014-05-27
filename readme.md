@@ -57,6 +57,9 @@ The plugin was created (adapted) by one of the company's employes for his own bl
 = 1.0.4 =
 * Added Photo, 3D Printing, Laptops & Tablets RSS feeds.
 
+= 1.0.5 =
+* Added Wearable Tech RSS feed.
+
 == Upgrade Notice ==
 
 = None yet
