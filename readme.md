@@ -60,6 +60,16 @@ The plugin was created (adapted) by one of the company's employes for his own bl
 = 1.0.5 =
 * Added Wearable Tech RSS feed.
 
+= 1.0.6 =
+* Added Win and Mac "free only" RSS feed alternatives.
+* Added RSS feed dedicated to Internet Browsers updates.
+* Added feeds for the updated Mobile section.
+* Added World News RSS feed.
+* Changed Telecoms into Mobile World RSS feed.
+* Updated Technology & Gadgets RSS feed.
+* Updated Reviews RSS feed and added sub-categories.
+* Removed old Handheld and Mobile RSS feeds.
+
 == Upgrade Notice ==
 
 = None yet
